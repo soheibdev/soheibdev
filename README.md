@@ -78,6 +78,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/soheibdev/soheibdev/output/snake.svg" alt="Snake animation" />
-
-###
