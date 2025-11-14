@@ -69,11 +69,9 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM5cGNuejdvOGdpeHVtNTk1cWx6eTdtanB3NGI3cGZhd2d6cmJiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+<img align="left" height="157" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM5cGNuejdvOGdpeHVtNTk1cWx6eTdtanB3NGI3cGZhd2d6cmJiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/soheibdev/soheibdev/output/snake.svg" alt="Snake animation" />
 
